@@ -1,0 +1,37 @@
+form Validator 
+FORM VALIDATOR  
+===============
+
+This is a simple client-side form validation project built using HTML, CSS, and JavaScript.  
+It ensures user input is valid before the form is submitted.
+
+Features:
+---------
+- Real-time form field validation
+- Error messages for invalid input
+- Validates:
+  * Required fields
+  * Email format
+  * Password strength and match
+  * Minimum character lengths
+- Responsive and user-friendly UI
+
+Technologies Used:
+------------------
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+How to Run:
+-----------
+1. Download or clone this repository to your computer.
+2. Open the `index.html` file in any modern web browser.
+3. Fill in the form and try submitting it.
+4. The validation script will highlight errors and prevent form submission until all inputs are valid.
+
+Validation Rules:
+-----------------
+- **Username:** Required, minimum 3 characters
+- **Email:** Required, must be a valid email format
+- **Password:** Required, minimum 6
+
