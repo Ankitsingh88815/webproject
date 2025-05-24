@@ -1,1 +1,66 @@
+AI VIRTUAL ASSISTANT  
+=====================
+
+This is a simple web-based AI Virtual Assistant built using HTML, CSS, and JavaScript.  
+It uses the Web Speech API to recognize voice commands and respond accordingly.
+
+Features:
+---------
+- Voice recognition using Web Speech API
+- Performs basic tasks:
+  * Open websites (Google, YouTube, Facebook, etc.)
+  * Perform Google searches
+  * Speak responses using speech synthesis
+- Simple, responsive user interface
+
+Technologies Used:
+------------------
+- HTML5
+- CSS3
+- JavaScript
+- Web Speech API (SpeechRecognition and SpeechSynthesis)
+
+How to Run:
+-----------
+1. Download or clone this repository to your local machine.
+2. Open the `index.html` file in a modern web browser (Chrome recommended).
+3. Click the "Start Listening" button and speak a command.
+4. The assistant will respond and take action if the command is recognized.
+
+Example Commands:
+-----------------
+- "Open Google"
+- "Search for cats on Google"
+- "Open YouTube"
+- "What time is it?"
+- "Hello" or "Hi"
+
+Project Structure:
+------------------
+- index.html       → Main HTML structure
+- style.css        → Styling for the user interface
+- script.js        → JavaScript logic for speech recognition and command handling
+
+Limitations:
+------------
+- Works best in Google Chrome (Web Speech API is not fully supported in all browsers)
+- Limited set of predefined commands
+- Internet connection required for web search functionality
+
+Future Improvements:
+--------------------
+- Add support for more complex commands
+- Integrate with external APIs for weather, news, etc.
+- Add custom voice options
+- Create a command log
+
+Author:
+-------
+Your Name  
+B.Tech CSE - College Project  
+Date: [Insert Date]
+
+License:
+--------
+This project is open-source and free to use for educational purposes.
 
