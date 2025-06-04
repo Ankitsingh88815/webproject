@@ -77,10 +77,10 @@ AI-Virtual-Assistant/
 
 **Your Name**
 B.Tech CSE – College Project
-🗓️ Date: \[Insert Date]
+Ankit Singh
 
 ---
 
 ## 📄 License
 
-This project is **open-source** and free to use for **educational purposes**.
+This project is **open-source** and free to use for **Learning purposes**.
