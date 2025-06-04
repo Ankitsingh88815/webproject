@@ -66,7 +66,7 @@ Form-Validator/
 
 ## 👤 Author
 
-**Your Name**
+**Ankit Singh**
 B.Tech CSE – College Project
 
 ---
