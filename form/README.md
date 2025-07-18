@@ -7,8 +7,8 @@ A responsive **Student Registration Form** hosted on **AWS S3**, connected to **
 ## 🚀 Live Demo
 
 🌐 [View the Form](https://your-s#-bucket/index.html)  
-*(Replace with your actual S3 URL)*
-*(Right now it is not working because it take some charges so if you want to deploy so it is the good way to deploy it)*
+- *(Replace with your actual S3 URL)*
+- *(Right now it is not working because it take some charges so if you want to deploy so it is the good way to deploy it)*
 
 ---
 
