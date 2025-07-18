@@ -26,10 +26,10 @@ A responsive **Student Registration Form** hosted on **AWS S3**, connected to **
 ## 🧱 Architecture
 
 +--------------------+
-| Static Website | <-- index.html hosted on Amazon S3
-| (HTML + CSS Form) |
-+--------------------+
-|
+| Static Website | <-- index.html hosted on Amazon S3  - 
+| (HTML + CSS Form) | - 
++--------------------+ - 
+| - 
 ▼
 +----------------------+
 | API Gateway | <-- Exposes a public REST API endpoint
@@ -50,6 +50,6 @@ A responsive **Student Registration Form** hosted on **AWS S3**, connected to **
 
 ## 👨‍💻 Author
 - Ankit Singh
--GitHub: https://github.com/Ankitsingh88815
--Email: ankitsingh88815@gmail.com
--LinkedIn: linkedin.com/in/ankit-singh-87b277253
+- GitHub: https://github.com/Ankitsingh88815
+- Email: ankitsingh88815@gmail.com
+- LinkedIn: linkedin.com/in/ankit-singh-87b277253
