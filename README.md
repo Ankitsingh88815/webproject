@@ -29,9 +29,9 @@ Welcome to the **FormGenerator AI** project — a playful yet practical web-base
 
 ## 📦 Installation
 
-## Ankit Singh
-
 ```bash
 git clone https://github.com/Ankitsingh88815/webproject/tree/main/formGenerator
 cd formGenerator
 npm install  # or skip if pure HTML/CSS/JS
+
+## ANKIT SINGH
