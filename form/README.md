@@ -25,28 +25,26 @@ A responsive **Student Registration Form** hosted on **AWS S3**, connected to **
 
 ## 🧱 Architecture
 
-- +--------------------+
-- | Static Website | <-- index.html hosted on Amazon S3  
-- | (HTML + CSS Form) | 
-- +--------------------+ 
-- | 
-- ▼
-- +----------------------+
-- | API Gateway | <-- Exposes a public REST API endpoint
-- | (POST /submit-form) |
-- +----------------------+
-- |
-- ▼
-- +-----------------------------+
-- | AWS Lambda | <-- Serverless backend (Python)
-- | +---------------------+ |
-- | | Lambda Layer (MySQL)| | <-- pymysql or MySQL connector
-- +-----------------------------+
-- |
-- ▼
-- +------------------------------+
-- | Amazon RDS (MySQL DB) | <-- Stores form submissions
-- +------------------------------+
++--------------------+</br> | Static Website | <-- index.html hosted on Amazon S3 </br> | (HTML + CSS Form) | 
+</br> +--------------------+ 
+</br>| 
+</br>▼
+</br> +----------------------+
+</br> | API Gateway | <-- Exposes a public REST API endpoint
+</br> | (POST /submit-form) |
+</br>+----------------------+
+</br>|
+ ▼</br>
+ +-----------------------------+</br>
+ | AWS Lambda | <-- Serverless backend (Python)</br>
+| +---------------------+ |</br>
+| | Lambda Layer (MySQL)| | <-- pymysql or MySQL connector</br>
+ +-----------------------------+</br>
+|</br>
+ ▼</br>
+ +------------------------------+</br>
+ | Amazon RDS (MySQL DB) | <-- Stores form submissions</br>
+ +------------------------------+</br>
 
 ## 👨‍💻 Author
 - Ankit Singh
